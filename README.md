@@ -11,15 +11,13 @@
  </p>
 
 
-- <p>:handshake: I am Eric :brazil:</p>
+- <p>:handshake: I am Matheus :brazil:</p>
 - <p>📍 From São Paulo Capital</p>
-- <p>:nerd_face: I'm a Trainee and i work with Ansible and Python automation in @Accenture Brasil</p>
+- <p>:nerd_face: I'm a BI analist and work in Pluris Midia. Looking for a Web Developer career. </p>
 - 👾 my hobbies are: 
-  - studying about hacking and pentest; 
+  - studying about game development, AI, geopolitics; 
   - watch movies;
-  - read books about philosophy;
   - Play League of Legends;
-  - Play Counter Strike;
 - 💬 Feel free to call me, I'll be very happy to help;
 
 ## **“A ambição é o último recurso do fracassado.”**
@@ -27,8 +25,8 @@
 <br>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eric-viezzer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-viezzer&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=remoguima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remoguima&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##  **Social Medias** :iphone: 
@@ -36,20 +34,20 @@
 <br>
 <div>
 <p align="center">
-    <a href="https://github.com/eric-viezzer">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/eric-viezzer">
+    <a href="https://github.com/remoguima">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/remoguima">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:ericviezzerlessa01@gmail.com">
+    <a href="mailto:matheusrguimaraes@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ericviezzerlessa01@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/eric-viezzer-5a3665202/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/eric-viezzer-5a3665202/">
+    <a href="https://www.linkedin.com/in/matheus-remorini-a19aa6109/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/matheus-remorini-a19aa6109/">
     </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/ocapivara/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/ocapivara/">
+    <a href="https://www.instagram.com/matheusremorini/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/matheusremorini/">
     </a>
 </p>
   
