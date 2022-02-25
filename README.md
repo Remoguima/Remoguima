@@ -1,5 +1,5 @@
 ## Hi Devs 💻
-<img align="right" alt="GIF" src="https://octodex.github.com/images/codercat.jpg" width="500px"/>
+<img align="right" alt="GIF" src="" width="500px"/>
 
  <p align="center"> 
    👋 New Visitors 👋
