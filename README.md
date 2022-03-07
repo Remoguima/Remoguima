@@ -20,7 +20,7 @@
   - Play League of Legends;
 - 💬 Feel free to call me, I'll be very happy to help;
 
-## **“A ambição é o último recurso do fracassado.”**
+## **“Nenhum desafio é grande demais para quem sabe seus objetivos”**
 
 <br>
 
