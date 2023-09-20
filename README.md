@@ -13,7 +13,7 @@
 
 - <p>:handshake: I am Matheus :brazil:</p>
 - <p>📍 From São Paulo Capital</p>
-- <p>:nerd_face: I'm a BI analist and work in Pluris Midia. Looking for a Web Developer career. </p>
+- <p>:nerd_face: I'm a BI analist. Looking for a Web Developer career. </p>
 - 👾 my hobbies are: 
   - studying about game development, AI, geopolitics; 
   - watch movies;
